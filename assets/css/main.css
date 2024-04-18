@@ -1700,19 +1700,19 @@ body.is-preload #header .content .inner {
 
 }
 
-#submit h2 {
+article h2.major {
 	margin: 0 auto 2rem;
 }
 
-#submit h3 {
+article h3 {
 	text-align: center;
 }
 
-#submit p {
+article p {
 	text-align: justify;
 }
 
-#submit p.submit-to {
+article p.submit-to {
 	text-align: center;
 }
 
