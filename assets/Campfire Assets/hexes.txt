@@ -1,0 +1,5 @@
+red:cb311dff
+beige:f7debdff
+yellow:ff8423ff
+brown: 411c18ff
+orange: ff8423ff
