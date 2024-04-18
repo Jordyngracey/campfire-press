@@ -1700,6 +1700,22 @@ body.is-preload #header .content .inner {
 
 }
 
+#submit h2 {
+	margin: 0 auto 2rem;
+}
+
+#submit h3 {
+	text-align: center;
+}
+
+#submit p {
+	text-align: justify;
+}
+
+#submit .submit-to {
+	text-align: center;
+}
+
 /* Footer */
 
 #footer {
