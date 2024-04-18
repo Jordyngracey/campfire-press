@@ -1,6 +1,14 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600");
 
+@font-face {
+	font-family: 'fonseca_rounded_bold';
+	src: url('../campfire_assets/FonescaRounded/fonsecarounded_bold_macroman/fonseca_rounded_bold-webfont.woff2') format('woff2'),
+		url('../campfire_assets/FonescaRounded/fonsecarounded_bold_macroman/fonseca_rounded_bold-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
 :root {
 	--red: #cb311d;
 	--beige: #f7debd;
@@ -292,6 +300,7 @@ h6 {
 	margin: 0 0 1rem 0;
 	text-transform: uppercase;
 	letter-spacing: 0.2rem;
+	font-family: 'fonseca_rounded_bold';
 }
 
 h1 a,
