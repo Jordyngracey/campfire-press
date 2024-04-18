@@ -1361,6 +1361,7 @@ body.is-preload #bg:before {
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	background: color-mix(in srgb, var(--beige) 10%, transparent);
 }
 
 #header .logo .icon {
