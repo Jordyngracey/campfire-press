@@ -1716,6 +1716,11 @@ article p.submit-to {
 	text-align: center;
 }
 
+.newsletter-embed {
+	display: flex;
+	justify-content: center;
+}
+
 /* Footer */
 
 #footer {
